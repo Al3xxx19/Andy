@@ -53,10 +53,10 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (0, uint256("0x000005569ddf3d3492fd12c5cd85684b159b5bc9c83a70a770ce224475cc7f96"));
+    (0, uint256("0x00000ac4f69fd34745084bb6dabc1db7845205df2d62931e3e746db1c3747d49"));
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1551016914, // * UNIX timestamp of last checkpoint block
+    1551031200, // * UNIX timestamp of last checkpoint block
     0,          // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     1400        // * estimated number of transactions per day after checkpoint
@@ -66,7 +66,7 @@ static Checkpoints::MapCheckpoints mapCheckpointsTestnet =
     boost::assign::map_list_of(0, uint256("0x000006a29adebe19d8a613d8e53a404337cb386fbf6e235b4af6606ccf0bd70a"));
 static const Checkpoints::CCheckpointData dataTestnet = {
     &mapCheckpointsTestnet,
-    1551016914,
+    1551031200,
     0,
     250};
 
@@ -133,13 +133,13 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime = 1551016914;
+        genesis.nTime = 1551031200;
         genesis.nBits = 0x1e0ffff0;
-        genesis.nNonce = 5663106;
+        genesis.nNonce = 39805;
 		
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x000005569ddf3d3492fd12c5cd85684b159b5bc9c83a70a770ce224475cc7f96"));
-        assert(genesis.hashMerkleRoot == uint256("0x6603574cbae608051e95bbe1b8130042812360db7e89bdc7d59dfbf56985fe52"));
+        assert(hashGenesisBlock == uint256("0x00000ac4f69fd34745084bb6dabc1db7845205df2d62931e3e746db1c3747d49"));
+        assert(genesis.hashMerkleRoot == uint256("0xe7b0908ec9471e39cc2c59591147ade104c1655d36b3e13f25e04bdaee22dc4e"));
 
         vSeeds.push_back(CDNSSeedData("173.249.28.35", "173.249.28.35"));         // Single node address
 
@@ -167,7 +167,7 @@ public:
         strSporkKey = "04d1a66ba00c3a25dc8032896aae7d03bca0069d2cd312dc81872a9661889a795accb0befe76b3f89856f3bc1fed076f098db96236d602971792fc8951dd76e7f9";
         strObfuscationPoolDummyAddress = "ACpRnqvRHKq8YmXkvYQV1AQmhSr4hzsXGA";
 		
-        nStartMasternodePayments = 1551034800; //Sunday, 24 Feb 2018 19:00:00 GMT
+        nStartMasternodePayments = 1551038400; //Sunday, 24 Feb 2018 20:00:00 GMT
     }
 
     const Checkpoints::CCheckpointData& Checkpoints() const
