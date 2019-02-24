@@ -53,20 +53,20 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (0, uint256("0x00000ac4f69fd34745084bb6dabc1db7845205df2d62931e3e746db1c3747d49"));
+    (0, uint256("0x00000ba86a8bc197ebcb91a3ea515314f42d1332949c8c799b8948163f109a30"));
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1551031200, // * UNIX timestamp of last checkpoint block
+    1551029400, // * UNIX timestamp of last checkpoint block
     0,          // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     1400        // * estimated number of transactions per day after checkpoint
 };
 
 static Checkpoints::MapCheckpoints mapCheckpointsTestnet =
-    boost::assign::map_list_of(0, uint256("0x000006a29adebe19d8a613d8e53a404337cb386fbf6e235b4af6606ccf0bd70a"));
+    boost::assign::map_list_of(0, uint256("0x"));
 static const Checkpoints::CCheckpointData dataTestnet = {
     &mapCheckpointsTestnet,
-    1551031200,
+    1551029400,
     0,
     250};
 
@@ -133,12 +133,12 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime = 1551031200;
+        genesis.nTime = 1551029400;
         genesis.nBits = 0x1e0ffff0;
-        genesis.nNonce = 39805;
+        genesis.nNonce = 2524464;
 		
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x00000ac4f69fd34745084bb6dabc1db7845205df2d62931e3e746db1c3747d49"));
+        assert(hashGenesisBlock == uint256("0x00000ba86a8bc197ebcb91a3ea515314f42d1332949c8c799b8948163f109a30"));
         assert(genesis.hashMerkleRoot == uint256("0xe7b0908ec9471e39cc2c59591147ade104c1655d36b3e13f25e04bdaee22dc4e"));
 
         vSeeds.push_back(CDNSSeedData("173.249.28.35", "173.249.28.35"));         // Single node address
