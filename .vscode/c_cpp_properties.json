@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Andy",
+            "includePath": [
+                "Andy",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
