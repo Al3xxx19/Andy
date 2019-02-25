@@ -195,43 +195,43 @@ qt/qt_libbitcoinqt_a-moc_bitcoingui.o: qt/moc_bitcoingui.cpp \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_multiset.h \
  /usr/share/mingw-w64/include/string.h \
  /usr/share/mingw-w64/include/sec_api/string_s.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QLabel \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qlabel.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qframe.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qwidget.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qwindowdefs.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qglobal.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QLabel \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qlabel.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qframe.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qwidget.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qwindowdefs.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qglobal.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/cstddef \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qconfig.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qfeatures.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qtypetraits.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qisenum.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsysinfo.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qlogging.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qflags.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qatomic.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qconfig.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qfeatures.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qtypetraits.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qisenum.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsysinfo.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qlogging.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qflags.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qatomic.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/atomic \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/atomic_base.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qnumeric.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qversiontagging.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qnamespace.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstring.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qchar.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbytearray.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qrefcount.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qarraydata.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qnumeric.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qversiontagging.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qnamespace.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qchar.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbytearray.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qrefcount.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qarraydata.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/stdarg.h \
  /usr/share/mingw-w64/include/stdarg.h \
  /usr/share/mingw-w64/include/_mingw_stdarg.h \
@@ -241,74 +241,74 @@ qt/qt_libbitcoinqt_a-moc_bitcoingui.o: qt/moc_bitcoingui.cpp \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/istream \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/istream.tcc \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stream_iterator.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qlist.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qalgorithms.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qiterator.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qpair.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qalgorithms.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qiterator.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qpair.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/list \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_list.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/list.tcc \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstringlist.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qregexp.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmetatype.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobject_impl.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmargins.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpaintdevice.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qrect.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsize.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qpoint.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpalette.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qcolor.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qrgb.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qrgba64.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qbrush.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qvector.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qmatrix.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpolygon.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qregion.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qdatastream.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qiodevice.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qline.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qtransform.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpainterpath.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qimage.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpixelformat.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpixmap.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qshareddata.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qhash.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qfont.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qfontmetrics.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qfontinfo.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qcursor.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qkeysequence.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QMainWindow \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qmainwindow.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qtabwidget.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qicon.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/QMap \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmap.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QMenu \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qmenu.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qaction.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qvariant.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmap.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qactiongroup.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/QPoint \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qpoint.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QPushButton \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qpushbutton.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qabstractbutton.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QSystemTrayIcon \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qsystemtrayicon.h
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qregexp.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmetatype.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobject_impl.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmargins.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpaintdevice.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qrect.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsize.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qpoint.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpalette.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qcolor.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qrgb.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qrgba64.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qbrush.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qvector.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qmatrix.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpolygon.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qregion.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qdatastream.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qiodevice.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qline.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qtransform.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpainterpath.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qimage.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpixelformat.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpixmap.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qshareddata.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qhash.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qfont.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qfontmetrics.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qfontinfo.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qcursor.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qkeysequence.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QMainWindow \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qmainwindow.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qtabwidget.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qicon.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/QMap \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmap.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QMenu \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qmenu.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qaction.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qvariant.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmap.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qactiongroup.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/QPoint \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qpoint.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QPushButton \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qpushbutton.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qabstractbutton.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QSystemTrayIcon \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qsystemtrayicon.h
 
 qt/bitcoingui.h:
 
@@ -708,79 +708,79 @@ serialize.h:
 
 /usr/share/mingw-w64/include/sec_api/string_s.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QLabel:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QLabel:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qlabel.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qlabel.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qframe.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qframe.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qwidget.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qwidget.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qwindowdefs.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qwindowdefs.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qglobal.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qglobal.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/cstddef:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qconfig.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qconfig.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qfeatures.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qfeatures.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qtypetraits.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qtypetraits.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qisenum.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qisenum.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsysinfo.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsysinfo.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qlogging.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qlogging.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qflags.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qflags.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qatomic.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qatomic.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/atomic:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/atomic_base.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qnumeric.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qnumeric.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qversiontagging.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qversiontagging.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qnamespace.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qnamespace.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstring.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstring.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qchar.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qchar.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbytearray.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbytearray.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qrefcount.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qrefcount.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qarraydata.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qarraydata.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/stdarg.h:
 
@@ -800,15 +800,15 @@ serialize.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stream_iterator.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qlist.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qlist.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qalgorithms.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qalgorithms.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qiterator.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qiterator.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qpair.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qpair.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/list:
 
@@ -816,122 +816,122 @@ serialize.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/list.tcc:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstringlist.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstringlist.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qregexp.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qregexp.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmetatype.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmetatype.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobject_impl.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobject_impl.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmargins.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmargins.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpaintdevice.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpaintdevice.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qrect.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qrect.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsize.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsize.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qpoint.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qpoint.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpalette.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpalette.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qcolor.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qcolor.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qrgb.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qrgb.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qrgba64.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qrgba64.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qbrush.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qbrush.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qvector.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qvector.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qmatrix.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qmatrix.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpolygon.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpolygon.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qregion.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qregion.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qdatastream.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qdatastream.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qiodevice.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qiodevice.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qline.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qline.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qtransform.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qtransform.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpainterpath.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpainterpath.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qimage.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qimage.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpixelformat.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpixelformat.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qpixmap.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qpixmap.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qshareddata.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qshareddata.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qhash.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qhash.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qfont.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qfont.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qfontmetrics.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qfontmetrics.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qfontinfo.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qfontinfo.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qcursor.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qcursor.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qkeysequence.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qkeysequence.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QMainWindow:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QMainWindow:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qmainwindow.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qmainwindow.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qtabwidget.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qtabwidget.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtGui/qicon.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtGui/qicon.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/QMap:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/QMap:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmap.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmap.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QMenu:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QMenu:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qmenu.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qmenu.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qaction.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qaction.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qvariant.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qvariant.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmap.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmap.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qactiongroup.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qactiongroup.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/QPoint:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/QPoint:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qpoint.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qpoint.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QPushButton:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QPushButton:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qpushbutton.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qpushbutton.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qabstractbutton.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qabstractbutton.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/QSystemTrayIcon:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/QSystemTrayIcon:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtWidgets/qsystemtrayicon.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtWidgets/qsystemtrayicon.h:

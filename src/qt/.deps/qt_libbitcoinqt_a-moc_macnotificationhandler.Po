@@ -1,10 +1,10 @@
 qt/qt_libbitcoinqt_a-moc_macnotificationhandler.o: \
  qt/moc_macnotificationhandler.cpp qt/macnotificationhandler.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/QObject \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qnamespace.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qglobal.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/QObject \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qnamespace.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qglobal.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/cstddef \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/i686-w64-mingw32/bits/c++config.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/i686-w64-mingw32/bits/os_defines.h \
@@ -18,11 +18,11 @@ qt/qt_libbitcoinqt_a-moc_macnotificationhandler.o: \
  /usr/share/mingw-w64/include/vadefs.h \
  /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
  /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qconfig.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qfeatures.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qconfig.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qfeatures.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/utility \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_relops.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_pair.h \
@@ -174,27 +174,27 @@ qt/qt_libbitcoinqt_a-moc_macnotificationhandler.o: \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/random.tcc \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/numeric \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_numeric.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qtypetraits.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qisenum.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsysinfo.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qlogging.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qflags.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qatomic.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qtypetraits.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qisenum.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsysinfo.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qlogging.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qflags.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qatomic.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/atomic \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/atomic_base.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qnumeric.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qversiontagging.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstring.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qchar.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbytearray.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qrefcount.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qarraydata.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qnumeric.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qversiontagging.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qchar.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbytearray.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qrefcount.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qarraydata.h \
  /usr/share/mingw-w64/include/string.h \
  /usr/share/mingw-w64/include/sec_api/string_s.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/stdarg.h \
@@ -224,22 +224,22 @@ qt/qt_libbitcoinqt_a-moc_macnotificationhandler.o: \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/istream \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/istream.tcc \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stream_iterator.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qlist.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qalgorithms.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qiterator.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qpair.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qalgorithms.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qiterator.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qpair.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/list \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_list.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/list.tcc \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstringlist.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qregexp.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmetatype.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qregexp.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmetatype.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/map \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_tree.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/ext/aligned_buffer.h \
@@ -248,19 +248,19 @@ qt/qt_libbitcoinqt_a-moc_macnotificationhandler.o: \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/array \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/uses_allocator.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_multimap.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobject_impl.h
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobject_impl.h
 
 qt/macnotificationhandler.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/QObject:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/QObject:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qnamespace.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qnamespace.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qglobal.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qglobal.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/cstddef:
 
@@ -288,15 +288,15 @@ qt/macnotificationhandler.h:
 
 /usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qconfig.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qconfig.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qfeatures.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qfeatures.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/utility:
 
@@ -600,47 +600,47 @@ qt/macnotificationhandler.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_numeric.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qtypetraits.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qtypetraits.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qisenum.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qisenum.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qsysinfo.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qsysinfo.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qlogging.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qlogging.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qflags.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qflags.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qatomic.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qatomic.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/atomic:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/atomic_base.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qnumeric.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qnumeric.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qversiontagging.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qversiontagging.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstring.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstring.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qchar.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qchar.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbytearray.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbytearray.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qrefcount.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qrefcount.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qarraydata.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qarraydata.h:
 
 /usr/share/mingw-w64/include/string.h:
 
@@ -700,15 +700,15 @@ qt/macnotificationhandler.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stream_iterator.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qlist.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qlist.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qalgorithms.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qalgorithms.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qiterator.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qiterator.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qpair.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qpair.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/list:
 
@@ -716,21 +716,21 @@ qt/macnotificationhandler.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/list.tcc:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstringlist.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstringlist.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qregexp.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qregexp.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qmetatype.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qmetatype.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/map:
 
@@ -748,4 +748,4 @@ qt/macnotificationhandler.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_multimap.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/QtCore/qobject_impl.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/QtCore/qobject_impl.h:

@@ -217,9 +217,9 @@ libbitcoinconsensus_la-pubkey.lo: pubkey.cpp pubkey.h hash.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/allocator.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/codecvt.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/unique_ptr.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/sha.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/e_os2.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/opensslconf.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/sha.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/e_os2.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/opensslconf.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/sstream \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/istream \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/ostream \
@@ -228,19 +228,19 @@ libbitcoinconsensus_la-pubkey.lo: pubkey.cpp pubkey.h hash.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/sstream.tcc \
  eccryptoverify.h ecwrapper.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/cstddef \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/ec.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/asn1.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/bio.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/ec.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/asn1.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/bio.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/stdarg.h \
  /usr/share/mingw-w64/include/stdarg.h \
  /usr/share/mingw-w64/include/_mingw_stdarg.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/crypto.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/stack.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/safestack.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/opensslv.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/ossl_typ.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/symhacks.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/bn.h
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/crypto.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/stack.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/safestack.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/opensslv.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/ossl_typ.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/symhacks.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/bn.h
 
 pubkey.h:
 
@@ -698,11 +698,11 @@ crypto/sph_skein.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/unique_ptr.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/sha.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/sha.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/e_os2.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/e_os2.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/opensslconf.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/opensslconf.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/sstream:
 
@@ -722,11 +722,11 @@ ecwrapper.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/cstddef:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/ec.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/ec.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/asn1.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/asn1.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/bio.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/bio.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/stdarg.h:
 
@@ -734,16 +734,16 @@ ecwrapper.h:
 
 /usr/share/mingw-w64/include/_mingw_stdarg.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/crypto.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/crypto.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/stack.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/stack.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/safestack.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/safestack.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/opensslv.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/opensslv.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/ossl_typ.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/ossl_typ.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/symhacks.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/symhacks.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/openssl/bn.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/openssl/bn.h:

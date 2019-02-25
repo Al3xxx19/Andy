@@ -162,7 +162,7 @@ old_postuninstall_cmds=""
 lock_old_archive_extraction=no
 
 # A C compiler.
-LTCC="/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../native/bin/ccache i686-w64-mingw32-gcc"
+LTCC="/home/alex/Andy/depends/i686-w64-mingw32/share/../native/bin/ccache i686-w64-mingw32-gcc"
 
 # LTCC compiler flags.
 LTCFLAGS="-pipe -O2 "

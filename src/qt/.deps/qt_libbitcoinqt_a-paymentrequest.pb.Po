@@ -88,31 +88,31 @@ qt/qt_libbitcoinqt_a-paymentrequest.pb.o: qt/paymentrequest.pb.cc \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/functional_hash.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/hash_bytes.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/basic_string.tcc \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/common.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/common.h \
  /usr/share/mingw-w64/include/assert.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/cstddef \
  /usr/share/mingw-w64/include/string.h \
  /usr/share/mingw-w64/include/sec_api/string_s.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_message_util.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/once.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/atomicops.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/platform_macros.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/atomicops_internals_x86_gcc.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/message.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_message_util.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/once.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/atomicops.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/platform_macros.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/atomicops_internals_x86_gcc.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/message.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/vector \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_construct.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_uninitialized.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_vector.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_bvector.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/vector.tcc \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/message_lite.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/descriptor.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/message_lite.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/descriptor.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/set \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_tree.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/ext/aligned_buffer.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_set.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_multiset.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/repeated_field.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/repeated_field.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/iterator \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/ostream \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/ios \
@@ -137,18 +137,18 @@ qt/qt_libbitcoinqt_a-paymentrequest.pb.o: qt/paymentrequest.pb.cc \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/istream \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/istream.tcc \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stream_iterator.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/type_traits.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/type_traits.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/utility \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_relops.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/template_util.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/extension_set.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/template_util.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/extension_set.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/map \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_map.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/tuple \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/array \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/uses_allocator.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_multimap.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/unknown_field_set.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/unknown_field_set.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/algorithm \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_algo.h \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/algorithmfwd.h \
@@ -216,16 +216,16 @@ qt/qt_libbitcoinqt_a-paymentrequest.pb.o: qt/paymentrequest.pb.cc \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/random.tcc \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/numeric \
  /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_numeric.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/io/coded_stream.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/io/coded_stream.h \
  /usr/share/mingw-w64/include/sys/param.h \
  /usr/share/mingw-w64/include/sys/types.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format_lite_inl.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format_lite.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_message_reflection.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_enum_reflection.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/reflection_ops.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format.h \
- /home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/descriptor.pb.h
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format_lite_inl.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format_lite.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_message_reflection.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_enum_reflection.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/reflection_ops.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format.h \
+ /home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/descriptor.pb.h
 
 qt/paymentrequest.pb.h:
 
@@ -405,7 +405,7 @@ qt/paymentrequest.pb.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/basic_string.tcc:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/common.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/common.h:
 
 /usr/share/mingw-w64/include/assert.h:
 
@@ -415,17 +415,17 @@ qt/paymentrequest.pb.h:
 
 /usr/share/mingw-w64/include/sec_api/string_s.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_message_util.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_message_util.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/once.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/once.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/atomicops.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/atomicops.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/platform_macros.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/platform_macros.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/atomicops_internals_x86_gcc.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/atomicops_internals_x86_gcc.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/message.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/message.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/vector:
 
@@ -439,9 +439,9 @@ qt/paymentrequest.pb.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/vector.tcc:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/message_lite.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/message_lite.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/descriptor.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/descriptor.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/set:
 
@@ -453,7 +453,7 @@ qt/paymentrequest.pb.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_multiset.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/repeated_field.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/repeated_field.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/iterator:
 
@@ -503,15 +503,15 @@ qt/paymentrequest.pb.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stream_iterator.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/type_traits.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/type_traits.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/utility:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_relops.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/template_util.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/stubs/template_util.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/extension_set.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/extension_set.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/map:
 
@@ -525,7 +525,7 @@ qt/paymentrequest.pb.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_multimap.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/unknown_field_set.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/unknown_field_set.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/algorithm:
 
@@ -661,22 +661,22 @@ qt/paymentrequest.pb.h:
 
 /usr/lib/gcc/i686-w64-mingw32/5.3-win32/include/c++/bits/stl_numeric.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/io/coded_stream.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/io/coded_stream.h:
 
 /usr/share/mingw-w64/include/sys/param.h:
 
 /usr/share/mingw-w64/include/sys/types.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format_lite_inl.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format_lite_inl.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format_lite.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format_lite.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_message_reflection.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_message_reflection.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_enum_reflection.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/generated_enum_reflection.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/reflection_ops.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/reflection_ops.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/wire_format.h:
 
-/home/lflr/MobilePayCoin/depends/i686-w64-mingw32/share/../include/google/protobuf/descriptor.pb.h:
+/home/alex/Andy/depends/i686-w64-mingw32/share/../include/google/protobuf/descriptor.pb.h:

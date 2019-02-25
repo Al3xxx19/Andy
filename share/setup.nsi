@@ -10,11 +10,11 @@ SetCompressor /SOLID lzma
 !define URL https://www.cardbuyers.skypool.fr
 
 # MUI Symbol Definitions
-!define MUI_ICON "/home/lflr/MobilePayCoin/share/pixmaps/bitcoin.ico"
-!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/lflr/MobilePayCoin/share/pixmaps/nsis-wizard.bmp"
+!define MUI_ICON "/home/alex/Andy/share/pixmaps/bitcoin.ico"
+!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/alex/Andy/share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
-!define MUI_HEADERIMAGE_BITMAP "/home/lflr/MobilePayCoin/share/pixmaps/nsis-header.bmp"
+!define MUI_HEADERIMAGE_BITMAP "/home/alex/Andy/share/pixmaps/nsis-header.bmp"
 !define MUI_FINISHPAGE_NOAUTOCLOSE
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
@@ -22,7 +22,7 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_DEFAULTFOLDER "ANDYcoin Core"
 !define MUI_FINISHPAGE_RUN $INSTDIR\ANDYcoin-qt.exe
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
-!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/lflr/MobilePayCoin/share/pixmaps/nsis-wizard.bmp"
+!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/alex/Andy/share/pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
 
 # Included files
@@ -48,7 +48,7 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile /home/lflr/MobilePayCoin/ANDYcoin-${VERSION}-win32-setup.exe
+OutFile /home/alex/Andy/ANDYcoin-${VERSION}-win32-setup.exe
 !if "32" == "64"
 InstallDir $PROGRAMFILES64\ANDYcoin
 !else
@@ -73,14 +73,14 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File /home/lflr/MobilePayCoin/release/ANDYcoin-qt.exe
-    File /oname=COPYING.txt /home/lflr/MobilePayCoin/COPYING
-    File /oname=readme.txt /home/lflr/MobilePayCoin/doc/README_windows.txt
+    File /home/alex/Andy/release/ANDYcoin-qt.exe
+    File /oname=COPYING.txt /home/alex/Andy/COPYING
+    File /oname=readme.txt /home/alex/Andy/doc/README_windows.txt
     SetOutPath $INSTDIR\daemon
-    File /home/lflr/MobilePayCoin/release/ANDYcoind.exe
-    File /home/lflr/MobilePayCoin/release/ANDYcoin-cli.exe
+    File /home/alex/Andy/release/ANDYcoind.exe
+    File /home/alex/Andy/release/ANDYcoin-cli.exe
     SetOutPath $INSTDIR\doc
-    File /r /home/lflr/MobilePayCoin/doc\*.*
+    File /r /home/alex/Andy/doc\*.*
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
 
